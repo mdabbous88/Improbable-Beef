@@ -9,6 +9,5 @@ CSS has been used to add a background picture and a text to the HTML page.
 
 [link to view the deployed page](https://mdabbous88.github.io/Improbable-Beef/)
 
-[!https://github.com/mdabbous88/Improbable-Beef/blob/main/images/Image-1.png]
-[!https://github.com/mdabbous88/Improbable-Beef/blob/main/images/Image-2.png]
-
+![](https://github.com/mdabbous88/Improbable-Beef/blob/main/images/Image-1.png)
+![](https://github.com/mdabbous88/Improbable-Beef/blob/main/images/Image-2.png)
