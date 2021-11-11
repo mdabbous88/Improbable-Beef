@@ -1,5 +1,7 @@
 # Improbable-Beef
 * Overview
+
+
 This project aims at analyzing data from many volunteers to identify the top 10 bacterial species in their belly buttons. These bacteria will help Improbable-Beef in manufacturing synthetic beef.
 
 A HTML/JavaScript page that displays a customized dashboard with a bar chart that identifies the type of bacteria, a gauge that displays the number of times a belly button is washed per week and a bubble chart that shows the abundance of specific bacteria per sample. 
